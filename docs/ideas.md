@@ -1,21 +1,6 @@
-# Ideas de proyecto
+# Ideas de base para el proyecto
 
-## Idea 1
+## aplicacione similares
+- 1 Hire me plz
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
-
-## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
+Esta aplicación surje en china con el proposito de conectar personas, pero no es para conseguir pareja, sino para alquilarla, gracias a esto, la persona que la use puede contratar una persona para que le acompañe en eventos sociales, siendo una alternativa para personas que se encuentran solteras.
