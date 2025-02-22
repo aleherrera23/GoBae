@@ -11,4 +11,6 @@ Esta aplicación surje en china con el proposito de conectar personas, pero no e
 Revmusic es una plataforma innovadora y envolvente que transforma tu experiencia musical según cómo te sientas o lo que estés haciendo. Desde una tarde tranquila hasta una fiesta llena de energía, Revmusic adapta su música a tu estado de ánimo y contexto, mientras te conecta con amigos para escuchar juntos en tiempo real o disfrutar de la misma canción en diferentes dispositivos.
 ### aplicacione similares
 - 1 spotify 
+Permite escuchar música y podcasts gratis, encontrar canciones favoritas entre los millones de referencias, permite crear, reproducir y compartir una playlist fácilmente con la música o episodios y podcasts favoritos.
 - 2 Deezer
+Permite disfrutar de un enorme catálogo de música que lo tiene todo y mucho más, con algoritmos integrados que aprenden lo que le gusta al usuario y recomiendan más contenido similar.
