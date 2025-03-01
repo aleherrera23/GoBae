@@ -34,6 +34,9 @@ La aplicación tendrá la siguientes pantallas
 8. Editar información: Si se quiere actualizar o corregir la información presentada en el perfil esto se logra haciendo clic en la parte superior derecha en el icono del lapiz, mostrando la información registrada y permitiendo editarla, si por otro lado se desea eliminar la cuenta esta un boton en la parte inferior del formulario el cual borrara toda la información del usuario asociada y lo regresara a la vista de registro de usuario.
 
 ![screen1](images/editar_datos.png)
+# Link de Figma para ver el mockup completo: 
+ (https://www.figma.com/proto/xu177Gxh4g1Pr3N2B7Mmpq/GoBae?node-id=53-216&starting-point-node-id=1%3A3&t=IpjaWCV9CvamSyCV-1)
+ 
 # Referencias
 
 - [Material Design: Foundations](https://m3.material.io/foundations)
