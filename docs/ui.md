@@ -35,7 +35,7 @@ La aplicación tendrá la siguientes pantallas
 
 ![screen1](images/editar_datos.png)
 # Link de Figma para ver el mockup completo: 
- (https://www.figma.com/proto/xu177Gxh4g1Pr3N2B7Mmpq/GoBae?node-id=53-216&starting-point-node-id=1%3A3&t=IpjaWCV9CvamSyCV-1)
+ (https://www.figma.com/proto/xu177Gxh4g1Pr3N2B7Mmpq/GoBae?node-id=1-3&starting-point-node-id=1%3A3&t=IpjaWCV9CvamSyCV-1)
  
 # Referencias
 
